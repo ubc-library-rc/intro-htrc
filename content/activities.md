@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Introduction
-nav_order: 4
+nav_order: 10
 ---
-# Text Mining for Research
+# Activities

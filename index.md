@@ -4,16 +4,18 @@ title: Outline
 nav_order: 1
 ---
 
-## Note: this workshop is in development and not yet complete.
+## HathiTrust’s Data and Analysis Tools for Text Mining Research
 
-Description...
+This workshop will introduce participants to what is possible with the Hathi Trust Research Centre (HTRC) as a tool for Text Mining Research and include a hands-on component working with HTRC Data Capsules, a powerful took for working with Hathi Trust materials.
+
+All materials are created and maintained by the Hathi Trust Research Centre and available under a ? license. The original materials are located here:
 
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
-1.
-2.
-3.
+1. articulate what is possible with the HTRC,
+2. set up a data capsule through the HTRC,
+3. and run basic analysis on a dataset using a data capsule.
 
 ## Schedule
 
@@ -25,4 +27,4 @@ At the end of this workshop, you will be able to:
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources
-* [eg. link to external slides]
+* [Workshop slides](https://drive.google.com/file/d/198N6MbZYhIFXy0VcPOXme9HwTs2oH3sl/view?usp=sharing)
