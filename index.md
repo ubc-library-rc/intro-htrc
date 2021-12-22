@@ -28,3 +28,6 @@ At the end of this workshop, you will be able to:
 
 ## Resources
 * [Workshop slides](https://drive.google.com/file/d/198N6MbZYhIFXy0VcPOXme9HwTs2oH3sl/view?usp=sharing)
+
+## Acknowledgement 
+This workshop is adapted from Hathi Trust Research Center's training materials avilaable under a CC BY 4.0 license. [The most recent materials are available here](https://drive.google.com/drive/folders/1vQgrWTCjpWpEhoCUk2HY306N4O_UFAC4).
