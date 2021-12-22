@@ -1,13 +1,10 @@
-title: Title of workshop
+title: Intro to the HTRC
 remote_theme: ubc-library-rc/rc-theme
 color_scheme: rc
-github_repo_url: "https://github.com/ubc-library-rc/REPOSITORY-NAME/" 
+github_repo_url: "https://github.com/ubc-library-rc/intro-htrc"
 
 # license information for workshop content
-license_name: "Creative Commons Attribution 4.0 International License"
-license_url: "http://creativecommons.org/licenses/by/4.0/"
-license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
-
+This workshop is adapted from Hathi Trust Research Center's training materials avilaable under a CC BY 4.0 license. [The most recent materials are available here](https://drive.google.com/drive/folders/1vQgrWTCjpWpEhoCUk2HY306N4O_UFAC4).
 # required for building jekyll site locally
 plugins:
   - jekyll-remote-theme

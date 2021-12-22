@@ -17,17 +17,8 @@ At the end of this workshop, you will be able to:
 2. set up a data capsule through the HTRC,
 3. and run basic analysis on a dataset using a data capsule.
 
-## Schedule
-
-| 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 |  |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion |
-
 ## Resources
 * [Workshop slides](https://drive.google.com/file/d/198N6MbZYhIFXy0VcPOXme9HwTs2oH3sl/view?usp=sharing)
 
-## Acknowledgement 
+## Acknowledgement
 This workshop is adapted from Hathi Trust Research Center's training materials avilaable under a CC BY 4.0 license. [The most recent materials are available here](https://drive.google.com/drive/folders/1vQgrWTCjpWpEhoCUk2HY306N4O_UFAC4).
