@@ -14,6 +14,8 @@ nav_order: 20
 
 ## Acknowledgements
 
+This workshop is adapted from Hathi Trust Research Center's training materials available under a CC BY 4.0 license. [The most recent materials are available here](https://drive.google.com/drive/folders/1vQgrWTCjpWpEhoCUk2HY306N4O_UFAC4).
+
 Site template adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright: UBC Library Research Commons, [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/)
