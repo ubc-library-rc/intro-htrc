@@ -9,3 +9,4 @@ This workshop is adapted from Hathi Trust Research Center's training materials a
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
